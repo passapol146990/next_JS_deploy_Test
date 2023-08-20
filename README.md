@@ -1,3 +1,20 @@
+# Next Js
+Next Js Learning
+<p align="center">
+  <img src="nextjs.png" width="125" title="hover text">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
